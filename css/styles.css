@@ -467,7 +467,6 @@ color: #F4F4FD;
     fill: #31d0aa;
 }
 
-                                <!----footer-input--->
 .footer-form-text{
     color: #FFF;
         font-size: 16px;
@@ -520,8 +519,6 @@ color: #F4F4FD;
     border-radius: 4px;
 }
 
-
-              <!----backdrop--->
 .backdrop{
     position: fixed;
     background-color: rgba(46, 47, 66, 0.40);
