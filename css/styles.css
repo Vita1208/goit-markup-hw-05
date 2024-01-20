@@ -602,6 +602,9 @@ border: none;
     margin-bottom: 16px;
 
 }
+.form-modal-label{
+    margin-bottom: 8px;
+}
 .form-label {
     display: block;
     color: #8E8F99;
