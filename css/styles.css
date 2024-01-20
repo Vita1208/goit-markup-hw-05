@@ -599,9 +599,6 @@ border: none;
     margin-bottom: 16px;
 
 }
-.backdrop{
-    margin-bottom: 8px;
-}
 .form-label {
     display: block;
     color: #8E8F99;
@@ -645,7 +642,7 @@ border: none;
 
 }
 .form-modal-label {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 
 }
 .form-input-comment {
