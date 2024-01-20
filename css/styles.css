@@ -641,6 +641,9 @@ border: none;
   
 
 }
+.form-modal-comment{
+    margin-bottom: 16px;
+}
 .form-modal-label {
     margin-bottom: 8px;
 
